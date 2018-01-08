@@ -1,0 +1,30 @@
+body{
+  background-color: gray;
+}
+
+div {
+  border: 1px solid red;
+  height: 400px;
+  width: 250px;
+  display:inline-block;
+
+}
+
+.one{
+  background-color: orange;
+  float:;
+  clear:;
+}
+
+.two{
+  background-color: green;
+  float:;
+  clear: ;
+
+}
+
+.three{
+  background-color: blue;
+  float: ;
+  clear:  ;
+}

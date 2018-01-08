@@ -54,7 +54,7 @@ font-family: 'Bellefair', serif;
   border: 1px solid black;
   display: flex;
   float: right;
-  opacity: 0.75;
+  opacity: 0.5;
 }
 
 @keyframes rotate {
